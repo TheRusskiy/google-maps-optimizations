@@ -1,7 +1,8 @@
 {
-  "name": "map-optimization",
+  "name": "google-maps-optimizations",
   "version": "0.1.0",
-  "private": true,
+  "license": "MIT",
+  "private": false,
   "dependencies": {
     "@react-google-maps/api": "^2.1.1",
     "@testing-library/jest-dom": "^5.11.4",
