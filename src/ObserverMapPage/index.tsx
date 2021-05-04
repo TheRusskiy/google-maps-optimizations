@@ -21,7 +21,6 @@ const useObserveVisibility = (element: Element | null): boolean => {
         threshold: 0, // visible amount of item shown in relation to root
       }
     );
-    console.log(observer);
     observer.observe(element);
     return () => {
       observer.disconnect();
