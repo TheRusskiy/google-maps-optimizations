@@ -8,3 +8,6 @@
 ## Seeing demos in browser
 
 `REACT_APP_MAPS_KEY=<YOUR_KEY> yarn start`
+
+
+## Blogpost: https://www.dmitry-ishkov.com/2021/05/faster-google-maps-load-times.html
